@@ -1,6 +1,13 @@
 # biogtk
 A genome toolkit
 
+## Installation
+```
+git clone https://github.com/Sh1ne111/biogtk.git
+
+cd KMERIA
+chmod +x /path/program/biogtk
+```
 
 ```
 #--------------------------------------------------------------------------------------#
