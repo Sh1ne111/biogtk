@@ -11,7 +11,7 @@ chmod +x /path/program/biogtk
 
 ```
 #--------------------------------------------------------------------------------------#
-Program: biogtk  [ A bio-genome toolkit ]
+Program: biogtk  [ A bio/genome toolkit ]
 
 Version: v0.0.1
 
