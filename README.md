@@ -5,7 +5,7 @@ A genome toolkit
 ```
 git clone https://github.com/Sh1ne111/biogtk.git
 
-cd KMERIA
+cd biogtk
 chmod +x /path/program/biogtk
 ```
 
